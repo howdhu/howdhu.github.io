@@ -1,0 +1,8 @@
+a:hover {
+    color: #009;
+}
+
+h6 a:hover {
+    text-decoration: none;
+    color: #009;
+}

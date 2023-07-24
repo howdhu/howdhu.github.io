@@ -1,0 +1,54 @@
+baseURL = 'https://howardhu.me/'
+languageCode = 'en-us'
+title = 'Howard Hu'
+theme = 'hugo-xmin'
+
+
+[params]
+referrer = "always"
+author = "Howard Hu"
+dateFormat = "Mon Jan 2 15:04:05 MST 2006" 
+externalLinkIcon = true
+externalLinkNewWindow = true
+footer = "{Year} Howard Hu. [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)"
+
+[permalinks]
+post = "/:year/:month/:day/:slug/"
+archive = "/:year/:month/:day/:slug/"
+public = "/:year/:month/:day/:slug/"
+tip = "/:year/:month/:day/:slug/"
+page = "/:slug/"
+
+
+[[menu.main]]
+weight = 10
+name = "Posts"
+url = "/posts"
+
+
+[[menu.main]]
+weight = 20
+name = "Books"
+url = "/books/"
+
+
+[[menu.main]]
+weight = 30
+name = "Categories"
+url = "/categories/"
+
+[[menu.main]]
+weight = 40
+name = "Tags"
+url = "/tags/"
+
+[[menu.main]]
+weight = 90
+name = "About"
+url = "/about/"
+
+[[menu.main]]
+weight = 100
+name = "Subscribe"
+url = "index.xml"
+
