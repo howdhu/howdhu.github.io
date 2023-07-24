@@ -1,7 +1,7 @@
 baseURL = 'https://howardhu.me/'
 languageCode = 'en-us'
 title = 'Howard Hu'
-theme = 'hugo-xmin'
+theme = 'xmin'
 
 
 [params]
