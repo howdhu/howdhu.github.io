@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Howard Hu</title><link>https://howardhu.me/categories/</link><description>Recent content in Categories on Howard Hu</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 15:33:23 -0500</lastBuildDate><atom:link href="https://howardhu.me/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Random</title><link>https://howardhu.me/categories/random/</link><pubDate>Mon, 24 Jul 2023 15:33:23 -0500</pubDate><guid>https://howardhu.me/categories/random/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Howard Hu</title>
+    <link>https://howardhu.me/categories/</link>
+    <description>Recent content in Categories on Howard Hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 15:33:23 -0500</lastBuildDate><atom:link href="https://howardhu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random</title>
+      <link>https://howardhu.me/categories/random/</link>
+      <pubDate>Mon, 24 Jul 2023 15:33:23 -0500</pubDate>
+      
+      <guid>https://howardhu.me/categories/random/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

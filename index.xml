@@ -1,2 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Howard Hu</title><link>https://howardhu.me/</link><description>Recent content on Howard Hu</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 15:33:23 -0500</lastBuildDate><atom:link href="https://howardhu.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Crazy summer in Austin</title><link>https://howardhu.me/posts/crazy-austin-summer/</link><pubDate>Mon, 24 Jul 2023 15:33:23 -0500</pubDate><guid>https://howardhu.me/posts/crazy-austin-summer/</guid><description>The Crazy Summer Temperature Before my grand Texan adventure, I was living in San Diego, Califonia. The weather was perfect in summer - warm, but not too hot, with a gentle breeze that made every day feel like a vacation. The beaches were my happy place, and I soaked up the sun like a true Californian.
-But life had different plans, and I found myself venturing to Texas. When I decided to move to Austin last August, I thought I was prepared for the heat I heared before setting off.</description></item><item><title>Aboyt Howard Hu</title><link>https://howardhu.me/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://howardhu.me/about/</guid><description/></item><item><title>Books by Howard Hu</title><link>https://howardhu.me/books/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://howardhu.me/books/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howard Hu</title>
+    <link>https://howardhu.me/</link>
+    <description>Recent content on Howard Hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 15:33:23 -0500</lastBuildDate><atom:link href="https://howardhu.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crazy summer in Austin</title>
+      <link>https://howardhu.me/posts/crazy-austin-summer/</link>
+      <pubDate>Mon, 24 Jul 2023 15:33:23 -0500</pubDate>
+      
+      <guid>https://howardhu.me/posts/crazy-austin-summer/</guid>
+      <description>The Crazy Summer Temperature Before my grand Texan adventure, I was living in San Diego, Califonia. The weather was perfect in summer - warm, but not too hot, with a gentle breeze that made every day feel like a vacation. The beaches were my happy place, and I soaked up the sun like a true Californian.
+But life had different plans, and I found myself venturing to Texas. When I decided to move to Austin last August, I thought I was prepared for the heat I heared before setting off.</description>
+    </item>
+    
+    <item>
+      <title>Aboyt Howard Hu</title>
+      <link>https://howardhu.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://howardhu.me/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books by Howard Hu</title>
+      <link>https://howardhu.me/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://howardhu.me/books/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
