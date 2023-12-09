@@ -1,4 +1,4 @@
 ---
-title: "Aboyt Howard Hu"
+title: "About Howard Hu"
 draft: false
 ---
