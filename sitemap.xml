@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://howardhu.me/feed/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://howardhu.me/categories/</loc>
     <lastmod>2023-07-24T15:33:23-05:00</lastmod>
   </url><url>
